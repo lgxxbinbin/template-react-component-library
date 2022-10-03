@@ -1,11 +1,12 @@
 import React from 'react'
+import ButtonStyle from './style'
 
 export interface ButtonProps {
   label: string
 }
 
 const Button = (props: ButtonProps) => {
-  return <button>{props.label}</button>
+  return <ButtonStyle>{props.label}</ButtonStyle>
 }
 
 export default Button
