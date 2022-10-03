@@ -1,1 +1,1 @@
-export { default } from './NVButton'
+export { default } from './NVTooltip'

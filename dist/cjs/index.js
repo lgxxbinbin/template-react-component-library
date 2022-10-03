@@ -1,0 +1,2 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:!0});var e=require("react"),t=require("styled-components");function r(e){return e&&"object"==typeof e&&"default"in e?e:{default:e}}var n=r(e);var o,u,l,a=r(t).default.button(l||(o=["\n  font-size: 60px;\n  background-color: lightgreen;\n"],u=["\n  font-size: 60px;\n  background-color: lightgreen;\n"],Object.defineProperty?Object.defineProperty(o,"raw",{value:u}):o.raw=u,l=o));exports.Button=function(e){return n.default.createElement(a,null,e.label)};
+//# sourceMappingURL=index.js.map
