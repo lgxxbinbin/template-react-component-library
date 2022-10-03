@@ -1,2 +1,5 @@
 # template-react-component-library
-npm run build
+
+This project is a library
+
+To using required installed lib @mui/material to your project
